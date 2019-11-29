@@ -1,5 +1,5 @@
 body{
-    background-color: chartreuse;
+    background-color: rgb(255, 255, 255);
 }
 h1{
     position: absolute;
@@ -7,14 +7,14 @@ h1{
     padding-top: 1em;
 }
 
-.BG{
+#BG{
     position: relative;
     height: 10em;
     width: 10em;
-    background-color: blue;
+    background-color: rgb(240, 99, 81);
     top: 40%;
-    left: 40%;
+    left: 45%;
     border-radius: 50%;
-    transform: scale(2);
-    margin-top: 20em;
+    transform: scale(4);
+    margin-top: 19em;
 }
